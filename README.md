@@ -1,2 +1,4 @@
-# webICS-api
-webICS-api project
+# Django-api
+Django-api project
+- CORE
+- User API
